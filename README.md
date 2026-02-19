@@ -1,71 +1,93 @@
-👋 Hi, I'm Kartike Anuj
+# 👋 Hi, I'm Kartike Anuj
 
-🚀 Middleware & API Management Engineer | DevOps Enthusiast
-💼 Currently working with Utkarsh Small Finance Bank (Client) via MindCraft Software Pvt. Ltd.
-🔧 Specialized in WSO2 API Manager, Enterprise Integrations & Production Support
+🚀 DevOps Engineer | Middleware & API Specialist  
+💼 Working with Utkarsh Small Finance Bank (Client) via MindCraft Software Pvt. Ltd.  
+🌍 Passionate about Automation, CI/CD, and Scalable Infrastructure
 
-💼 About Me
+---
 
-I am a Middleware & API Management Engineer with 3+ years of experience managing enterprise API platforms in the banking domain.
+## 🚀 About Me
 
-I specialize in:
+DevOps-focused Engineer with 3+ years of experience in enterprise API platforms within the banking domain.  
+Strong foundation in Middleware Administration and Production Support, now specializing in automation, CI/CD pipelines, containerization, and infrastructure reliability.
 
-WSO2 API Manager Administration
+I build and manage systems that are:
+- 🔹 Automated
+- 🔹 Scalable
+- 🔹 Secure
+- 🔹 Production-Ready
 
-API Gateway Management
+---
 
-Secure Enterprise Integrations
+## 🛠️ DevOps & Cloud Stack
 
-Production Support & Incident Handling
+### ⚙️ CI/CD & Automation
+- Jenkins
+- GitHub Actions
+- Git
+- Linux Shell Scripting
 
-Performance Monitoring & Optimization
+### 🐳 Containerization & Orchestration
+- Docker
+- Kubernetes (Learning & Implementing)
+- Docker Compose
 
-Currently expanding my expertise into DevOps Engineering, focusing on automation, CI/CD, containerization, and cloud-native deployments.
+### ☁️ Infrastructure & Monitoring
+- Linux Server Administration
+- Nginx
+- SSL Configuration
+- Log Analysis
+- Production Deployment Management
 
-🛠 Tech Stack
+### 🔐 API & Middleware Expertise
+- WSO2 API Manager
+- WSO2 Integration Studio
+- REST & SOAP APIs
+- OAuth2 / JWT Authentication
+- Secure API Gateway Management
 
-Middleware & API:
+### 💻 Development
+- Java
+- Spring Boot
+- SQL
 
-WSO2 API Manager
+---
 
-WSO2 Integration Studio
+## 📌 Current Focus
 
-REST & SOAP APIs
+- 🔹 Building Real-World DevOps Projects
+- 🔹 Implementing End-to-End CI/CD Pipelines
+- 🔹 Kubernetes Hands-On Deployments
+- 🔹 Infrastructure as Code (IaC) Learning
+- 🔹 System Design & High Availability Architecture
 
-OAuth2 / JWT / SSL
+---
 
-DevOps & Cloud:
+## 📊 What I Believe
 
-Docker
+> "Automation is not optional. Reliability is not negotiable."
 
-Kubernetes (Learning)
+I focus on reducing manual effort, improving deployment speed, and increasing system stability through DevOps best practices.
 
-Jenkins
+---
 
-Git & GitHub
+## 🎯 Career Objective
 
-Linux
+Actively seeking a DevOps Engineer role where I can leverage:
+- Middleware expertise
+- CI/CD automation skills
+- Containerization experience
+- Production system management knowledge
 
-CI/CD Pipelines
+to build reliable and scalable infrastructure.
 
-Programming:
+---
 
-Java
+## 📫 Connect With Me
 
-Spring Boot
+- LinkedIn: (Add your LinkedIn URL)
+- Email: (Add your professional email)
 
-SQL
+---
 
-📌 What I'm Working On
-
-🔹 Building real-world DevOps projects
-
-🔹 Automating deployments using CI/CD
-
-🔹 Learning Kubernetes & Cloud Architecture
-
-🔹 Strengthening system design & scalability concepts
-
-📈 Career Goal
-
-Actively seeking a DevOps Engineer role to leverage middleware expertise and DevOps skills in building reliable, automated, and scalable systems.
+⭐ Always open to collaboration on DevOps and automation projects.
