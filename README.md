@@ -1,93 +1,113 @@
 # 👋 Hi, I'm Kartike Anuj
 
-🚀 DevOps Engineer | Middleware & API Specialist  
-💼 Working with Utkarsh Small Finance Bank (Client) via MindCraft Software Pvt. Ltd.  
-🌍 Passionate about Automation, CI/CD, and Scalable Infrastructure
+🚀 DevOps Engineer | Middleware & API Platform Specialist  
+🏦 Enterprise Infrastructure & API Engineer – Banking Domain  
 
 ---
 
-## 🚀 About Me
+## 🔎 Professional Overview
 
-DevOps-focused Engineer with 3+ years of experience in enterprise API platforms within the banking domain.  
-Strong foundation in Middleware Administration and Production Support, now specializing in automation, CI/CD pipelines, containerization, and infrastructure reliability.
-
-I build and manage systems that are:
-- 🔹 Automated
-- 🔹 Scalable
-- 🔹 Secure
-- 🔹 Production-Ready
+| Category | Details |
+|-----------|----------|
+| Experience | 3+ Years |
+| Domain | Banking & Financial Services |
+| Core Strength | DevOps Automation & API Platform Engineering |
+| Focus Area | CI/CD, Containers, Infrastructure Reliability |
+| Environment | Linux-based Production Systems |
 
 ---
 
-## 🛠️ DevOps & Cloud Stack
+## 🛠 DevOps & Cloud Stack
 
 ### ⚙️ CI/CD & Automation
-- Jenkins
-- GitHub Actions
-- Git
-- Linux Shell Scripting
+
+| Tools | Expertise |
+|-------|------------|
+| Jenkins | Pipeline Creation, Build Automation, Deployment Workflows |
+| GitHub Actions | CI/CD Workflow Automation |
+| Git | Branching Strategy, Version Control |
+| Shell Scripting | Automation & Server-side Scripting |
+| Release Management | Build Versioning & Deployment Strategy |
+
+---
 
 ### 🐳 Containerization & Orchestration
-- Docker
-- Kubernetes (Learning & Implementing)
-- Docker Compose
 
-### ☁️ Infrastructure & Monitoring
-- Linux Server Administration
-- Nginx
-- SSL Configuration
-- Log Analysis
-- Production Deployment Management
-
-### 🔐 API & Middleware Expertise
-- WSO2 API Manager
-- WSO2 Integration Studio
-- REST & SOAP APIs
-- OAuth2 / JWT Authentication
-- Secure API Gateway Management
-
-### 💻 Development
-- Java
-- Spring Boot
-- SQL
+| Technology | Hands-On Experience |
+|------------|--------------------|
+| Docker | Image Creation, Multi-stage Builds, Container Optimization |
+| Docker Compose | Multi-container Application Setup |
+| Kubernetes | Pods, Deployments, Services, ConfigMaps, Secrets |
+| Deployment Strategy | Rolling Updates, Zero-Downtime Deployment |
 
 ---
 
-## 📌 Current Focus
+### ☁️ Infrastructure & Production Engineering
 
-- 🔹 Building Real-World DevOps Projects
-- 🔹 Implementing End-to-End CI/CD Pipelines
-- 🔹 Kubernetes Hands-On Deployments
-- 🔹 Infrastructure as Code (IaC) Learning
-- 🔹 System Design & High Availability Architecture
-
----
-
-## 📊 What I Believe
-
-> "Automation is not optional. Reliability is not negotiable."
-
-I focus on reducing manual effort, improving deployment speed, and increasing system stability through DevOps best practices.
+| Area | Expertise |
+|------|------------|
+| Linux Administration | Server Setup, User Management, Process Monitoring |
+| Web Server | Nginx Reverse Proxy Configuration |
+| Security | SSL/TLS Configuration & Certificate Management |
+| Monitoring | Log Analysis & Root Cause Identification |
+| Performance | Production Debugging & Optimization |
 
 ---
 
-## 🎯 Career Objective
+## 🔐 API & Middleware Engineering
 
-Actively seeking a DevOps Engineer role where I can leverage:
-- Middleware expertise
-- CI/CD automation skills
-- Containerization experience
-- Production system management knowledge
+| Technology | Expertise |
+|------------|------------|
+| WSO2 API Manager | Installation, Configuration, Production Support |
+| API Gateway | Security Hardening & Traffic Management |
+| Authentication | OAuth2, JWT, Token Validation |
+| API Types | REST & SOAP Services |
+| Integration | Enterprise API Integration & Monitoring |
 
-to build reliable and scalable infrastructure.
+---
+
+## 💻 Development Skills
+
+| Technology | Usage |
+|------------|--------|
+| Java | Backend Development |
+| Spring Boot | RESTful Microservices |
+| SQL | Database Operations |
+| API Integration | Secure Backend Communication |
+
+---
+
+## 🚀 Engineering Principles
+
+| Principle | Approach |
+|------------|----------|
+| Automation First | Reduce Manual Effort via CI/CD |
+| Secure by Design | Implement Authentication & Encryption |
+| Reliability | High Availability & Fault Tolerance |
+| Observability | Monitor, Log, Improve Continuously |
+| Scalability | Design for Growth & Load Handling |
+
+---
+
+## 📌 Current Technical Focus
+
+| Learning / Building |
+|---------------------|
+| End-to-End CI/CD Projects |
+| Kubernetes Production Deployments |
+| Infrastructure as Code (Terraform – Learning) |
+| Advanced Linux & System Internals |
+| Observability & Monitoring Stack |
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn URL)
-- Email: (Add your professional email)
+| Platform | Link |
+|----------|------|
+| LinkedIn | https://www.linkedin.com/in/kartike-anuj-9b6321188/ |
+| Email | kartikeanuj@gmail.com |
 
 ---
 
-⭐ Always open to collaboration on DevOps and automation projects.
+⭐ Open to DevOps Engineer roles focused on automation, scalable infrastructure, and production-grade systems.
